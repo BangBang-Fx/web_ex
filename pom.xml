@@ -26,16 +26,6 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <url>http://ec2-18-140-58-168.ap-southeast-1.compute.amazonaws.com:8081/repository/prj-1-release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexus</id>
-            <url>http://ec2-18-140-58-168.ap-southeast-1.compute.amazonaws.com:8081/repository/prj-1-snapshot/</url>
-        </snapshotRepository>
-    </distributionManagement>
   </dependencies>
 
 
