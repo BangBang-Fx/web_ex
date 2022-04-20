@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.arun.web</groupId>
   <artifactId>web_ex</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>web_ex Maven Webapp</name>
     <url>http://www.example.com</url>
